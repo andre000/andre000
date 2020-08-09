@@ -1,4 +1,4 @@
-<img src="profile.svg" />
+<img src="./profile.svg" />
 <p> You can find me on: </p>
 <p>
   <a href="https://www.linkedin.com/in/andreadriano/">
