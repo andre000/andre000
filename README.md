@@ -1,19 +1,24 @@
-<img src="https://github.com/andre000/andre000/blob/master/profile.svg" />
-<p> You can find me on: </p>
-<p>
-  <a href="https://www.linkedin.com/in/andreadriano/">
-    <img src="https://img.shields.io/badge/%40andreadriano-black?logo=linkedin"></img>
-  </a>
-  <a href="https://twitter.com/anticriativo">
-    <img src="https://img.shields.io/badge/%40anticriativo-black?logo=twitter"></img>
-  </a>
-  <a href="https://codepen.io/andre000">
-    <img src="https://img.shields.io/badge/-%40andre000-black?logo=codepen"></img>
-  </a>
-  <a href="https://dev.to/andre000">
-    <img src="https://img.shields.io/badge/-%40andre000-black?logo=dev.to"></img>
-  </a>
-  <a href="https://stackoverflow.com/users/10387396/andr%c3%a9-adriano">
-    <img src="https://img.shields.io/badge/-%40andreadriano-black?logo=stackoverflow"></img>
-  </a>
-</p>
+# Hi, I’m André 👋
+
+**Software Engineer** | **Cloud Enthusiast** | **Gamer at Heart**
+
+## 🛠️ Top Skills & Technologies
+
+- **Languages:** JavaScript, SQL
+- **Frameworks & Tools:** Node.js, Vue.js, Docker
+- **Cloud:** AWS
+- **OS:** Linux
+
+## 🚀 About Me
+
+Full-stack engineer passionate about building scalable apps and leveraging the cloud to solve real-world problems. I thrive on tackling challenges, learning new tech, and collaborating with other makers.
+
+## 🎲 Beyond Code
+
+- RPG fanatic and board game strategist
+- Electronics tinkerer & lifelong learner
+- Always up for a new adventure—inside or outside the terminal
+
+## 🌐 Connect with Me
+
+- Portfolio: [andreadriano.dev](https://andreadriano.dev)
