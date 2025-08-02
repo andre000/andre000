@@ -5,7 +5,7 @@
 ## 🛠️ Top Skills & Technologies
 
 - **Languages:** JavaScript, SQL
-- **Frameworks & Tools:** Node.js, Vue.js, Docker
+- **Frameworks & Tools:** Node.js, Vue.js, React, Docker
 - **Cloud:** AWS
 - **OS:** Linux
 
